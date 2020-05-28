@@ -1,0 +1,59 @@
+OriginalAuthor	CorrectedAuthor
+Almeida A.	Almeida A.A.
+Alves Junior S.	Alves Jr S.
+Alves S.	Alves Jr S.
+Alves S. Jr.	Alves Jr S.
+Barrio R.J.	Barrio R.J.
+Basu Samarendra	Basu S.
+Berk R.	Berk R.E.
+Bridge C.	Bridge C.M.
+Brozek-Mucha Z.	Brozek-Mucha Z.
+Burnett B.	Burnett B.R.
+Dartigalongue T.	Dartigalongue Th.
+De Sá G.F.	de Sa G.F.
+Deliot P.	Deliot P.
+Fox H.A.	Fox III H.A.
+Garcia J.	Garcia J.D.
+Garcia James D.	Garcia J.D.
+Garcia-Ruiz C.	Garcia-Ruiz C.
+Grandi M.	Grandi M.A.
+Israelsohn Azulay O.	Israelsohn-Azulay O.
+Junior S.A.	Junior S.A.
+Kara I.	Kara ?.
+Karslioglu Y.	Karslioglu Y.
+Kieser J.	Kieser J.A.
+Kirkbride P.	Kirkbride K.P.
+Kneubuehl B.	Kneubuehl B.P.
+Kobus H.	Kobus H.J.
+Koc S.	Koc S.
+Kopina M.	Kopina M.A.
+Kosanke B.	Kosanke B.J.
+Kunz S.	Kunz S.N.
+Lebiedzik Jozef	Lebiedzik J.
+Lopez-Lopez M.	Lopez-Lopez M.
+Lucena M.A.M.	Lucena M.A.D.M.
+Martinez M.	Martinez M.V.
+Martinez Michael V.	Martinez M.V.
+Melo A.J.G.	Melo A.J.G.D.
+Moran J.	Moran J.W.
+Niemeyer Wayne	Niemeyer W.D.
+Niemeyer Wayne D.	Niemeyer W.D.
+Niewohner Ludwig	Niewoehner L.
+NiewÃ¶hner L.	Niewoehner L.
+Niewoehner L.	Niewoehner L.
+Ozaslan A.	Ozaslan A.
+Pinto A.L.	Pinto M.A.L.
+Redman K.	Redman K.E.
+Roux C.	Roux C.P.
+Sanchez A.	Sanchez A.
+Schweitzer J.	Schweitzer J.S.
+Schyma C.	Schyma C.W.A.
+Sousa A.	Sousa A.V.
+Stone I.C.	Stone Jr. I.C.
+Thali M.	Thali M.J.
+Tugcu H.	Tugcu H.
+Unlu M.B.	Uner H.B.
+Viebig S.	Viebig S.B.
+Wolf E.	Wolf E.(U.)
+Wrobel H.	Wrobel H.A.
+Yañez J.	Yanez J.

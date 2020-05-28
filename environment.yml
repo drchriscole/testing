@@ -1,0 +1,13 @@
+name: gsrpaper
+channels:
+  - r
+  - defaults
+dependencies:
+  - r-base=3.6.1
+  - r-colorspace
+  - r-countrycode
+  - r-ggplot2
+  - r-maps
+  - r-rcolorbrewer
+  - r-tidyverse
+
