@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/228665895.svg)](https://zenodo.org/badge/latestdoi/228665895)
 
-A scientometric approach using gunshot residue (GSR) literature as an example
+A scientometric approach using blah blah blah
 =============================================================================
 
 This repository contains the R scripts used to process literature 
